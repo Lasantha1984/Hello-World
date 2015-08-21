@@ -1,2 +1,5 @@
 # Hello-World
-this is just a test
+Hi human
+I am lasantha from sri lanka
+Java developer who use git
+
